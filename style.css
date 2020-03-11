@@ -1,4 +1,32 @@
+footer {
+  background-color: #341C09;
+  color: #386AA3;
+  margin: 0;
+  text-align: right;
+}
+
 body {
-	background-color: darkgrey;
-	color: darkgrey;
+	background-color: #D4E4F7;
+	margin-top: 0;
+	padding-top: 0;
+	padding: 0;
+	margin-bottom: 0;
+	margin: 0;
+}
+
+nav {
+  text-align: left;
+}
+
+header {
+  background-color: #236AB9;
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  color: #341C09;
+}
+
+h2 {
+  color: #B85B14;
 }
